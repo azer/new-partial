@@ -1,0 +1,18 @@
+{
+  "name": "new-partial",
+  "version": "0.0.0",
+  "description": "Partial function application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "repository": {
+    "url": "git@github.com:azer\/new-partial.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
